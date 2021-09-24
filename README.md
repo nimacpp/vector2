@@ -28,7 +28,7 @@
  </pre>
  ## Operating Systems Tested
 - Windows 10
-- Ubuntu 19.10
+- Ubuntu 20.04
 - # Install
 ```bash
 git clone https://github.com/nimacpp/vector2.git
