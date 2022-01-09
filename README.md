@@ -13,6 +13,9 @@ cd vector2
 g++ -std=c++17 key.cpp key
 ./key 
 ```
+#complie File 
+-> for windows key.exe file
+-> for linux key file
 ### Contact us
 - mail to me : nima.cpp@outlook.com
 - twitter : Mr__ruby
